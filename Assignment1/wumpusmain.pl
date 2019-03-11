@@ -31,9 +31,9 @@ glint([4,4]).
 
 thereIsStench(yes):-
     stench([1,1]);
-	stench([2,2]);
-	stench([1,3]);
-	stench([3,1]).
+    stench([2,2]);
+    stench([1,3]);
+    stench([3,1]).
 
 thereIsStench(no).
 
