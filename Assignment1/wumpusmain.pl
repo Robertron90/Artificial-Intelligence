@@ -1,4 +1,4 @@
-% Several Paths
+% Example for several paths
 
   % % % % % % % % % %
 % _ _ _ _ _ _ _ _ _ _%
